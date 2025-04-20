@@ -65,6 +65,3 @@ Feel free to fork this repo, start your own #100DaysOfAI, or just check out the 
 
 If you're on a similar journey or planning to start — let’s learn together!  
 
----
-
-Let me know if you'd like a version with emojis toned down or one specifically tailored to LinkedIn/blog/portfolio!
