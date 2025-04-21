@@ -24,4 +24,4 @@ image = pipe(prompt).images[0]
 
 # Step 7: Display or save the generated image
 image.show()                    
-image.save("ai_art.png")      
+# image.save("ai_art.png")      
