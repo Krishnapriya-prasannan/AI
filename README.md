@@ -1,11 +1,7 @@
 
-##  #100DaysOfAI
+##  #AI
 
-Welcome to my **#100DaysOfAI** challenge — a self-driven journey to dive deep into the world of **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** over the course of **100 consecutive days**. Inspired by the #100DaysOfCode challenge, this initiative is about **learning by building**, **exploring AI concepts hands-on**, and **sharing daily progress** to grow consisten
-
-## What is #100DaysOfAI?
-
-The **#100DaysOfAI** challenge is a personal commitment to dedicate time **every day for 100 days** to:
+Welcome to my AI repo — a self-driven journey to dive deep into the world of **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** . This initiative is about **learning by building**, **exploring AI concepts hands-on**, and **sharing daily progress** to grow consistent
 
 - Study key AI/ML/DL topics
 - Build real-world projects or mini prototypes
@@ -16,7 +12,7 @@ Whether it’s training neural networks, understanding attention mechanisms, exp
 
 ---
 
-###  Why This Challenge?
+###  Why This ?
 
 - To **master foundational and advanced AI concepts** by building.
 - To **document and reflect** on learning through daily summaries.
@@ -57,7 +53,7 @@ Each day typically includes:
 You can follow the progress:
 - Right here in this repository (with daily folders and READMEs)
 
-Feel free to fork this repo, start your own #100DaysOfAI, or just check out the projects!
+Feel free to fork this repo, start your own #AI, or just check out the projects!
 
 ---
 
