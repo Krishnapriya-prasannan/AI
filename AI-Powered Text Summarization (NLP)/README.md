@@ -1,7 +1,6 @@
 
 ### ** AI-Powered Text Summarization (NLP)**  
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 8**, I implemented an AI-powered **text summarization system** using **Natural Language Processing (NLP)** techniques — both **extractive** and **abstractive** summarization models.
+I implemented an AI-powered **text summarization system** using **Natural Language Processing (NLP)** techniques — both **extractive** and **abstractive** summarization models.
 
 ---
 
