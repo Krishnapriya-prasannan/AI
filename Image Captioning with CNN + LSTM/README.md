@@ -1,6 +1,6 @@
 
 ### ** Image Captioning with CNN + LSTM**  
-As part of my **#100DaysOfAI** challenge, on **Day 14**, I implemented an **Image Captioning System** that generates natural language descriptions for images by combining **Convolutional Neural Networks (CNN)** for image understanding and **Recurrent Neural Networks (LSTM)** for sequence generation.
+ I implemented an **Image Captioning System** that generates natural language descriptions for images by combining **Convolutional Neural Networks (CNN)** for image understanding and **Recurrent Neural Networks (LSTM)** for sequence generation.
 
 ---
 
