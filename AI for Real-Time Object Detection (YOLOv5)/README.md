@@ -1,6 +1,6 @@
 
 ### ** AI for Real-Time Object Detection (YOLOv5)**  
-As part of my **#100DaysOfAI** challenge, on **Day 17**, I implemented a **real-time object detection system** using the powerful **YOLOv5** (You Only Look Once v5) architecture. This model detects multiple objects in a single frame with high speed and accuracy.
+ I implemented a **real-time object detection system** using the powerful **YOLOv5** (You Only Look Once v5) architecture. This model detects multiple objects in a single frame with high speed and accuracy.
 
 ---
 
