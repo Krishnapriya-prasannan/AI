@@ -1,6 +1,6 @@
 
 ### **Build Your Own Transformer Model (Mini BERT)**  
-As part of my **#100DaysOfAI** challenge, on **Day 15**, I implemented a **Mini Transformer Encoder** model inspired by **BERT**. This compact version helps understand the internals of the Transformer architecture by building it from scratch, including **positional encoding**, **multi-head self-attention**, and **encoder blocks** using **synthetic data**.
+I implemented a **Mini Transformer Encoder** model inspired by **BERT**. This compact version helps understand the internals of the Transformer architecture by building it from scratch, including **positional encoding**, **multi-head self-attention**, and **encoder blocks** using **synthetic data**.
 
 ---
 
