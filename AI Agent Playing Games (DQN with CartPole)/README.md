@@ -1,8 +1,7 @@
 
 
 ### **AI Agent Playing Games (DQN with CartPole)**  
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 12**, I implemented a **Deep Q-Network (DQN)** agent that learns to balance a pole on a moving cart in the **CartPole** environment — a classic reinforcement learning problem.
+ I implemented a **Deep Q-Network (DQN)** agent that learns to balance a pole on a moving cart in the **CartPole** environment — a classic reinforcement learning problem.
 
 ---
 
