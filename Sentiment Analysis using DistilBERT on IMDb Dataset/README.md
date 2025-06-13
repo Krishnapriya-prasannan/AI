@@ -1,6 +1,6 @@
 
 ### **Sentiment Analysis using DistilBERT on IMDb Dataset**  
-As part of my **#100DaysOfAI** challenge, on **Day 16**, I fine-tuned a **DistilBERT** model on the **IMDb movie reviews dataset** to classify sentiments as **positive** or **negative**. This exercise introduced me to transfer learning with pre-trained Transformers using Hugging Face’s `transformers` and `datasets` libraries.
+I fine-tuned a **DistilBERT** model on the **IMDb movie reviews dataset** to classify sentiments as **positive** or **negative**. This exercise introduced me to transfer learning with pre-trained Transformers using Hugging Face’s `transformers` and `datasets` libraries.
 
 ---
 
