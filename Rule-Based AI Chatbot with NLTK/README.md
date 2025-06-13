@@ -1,6 +1,6 @@
 #  Rule-Based AI Chatbot with NLTK
 
-This project is part of my **#100DaysOfAI** challenge. On **Day 1**, I built a simple **rule-based chatbot** in Python using **NLTK (Natural Language Toolkit)** to process user input.
+ I built a simple **rule-based chatbot** in Python using **NLTK (Natural Language Toolkit)** to process user input.
 
 ---
 
