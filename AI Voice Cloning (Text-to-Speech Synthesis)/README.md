@@ -1,7 +1,6 @@
 
 ### **AI Voice Cloning (Text-to-Speech Synthesis)**
-
-As part of my **#100DaysOfAI** challenge, on **Day 19**, I explored the fascinating world of **Text-to-Speech (TTS)** by generating human-like speech from **plain text** using AI-powered models.
+ I explored the fascinating world of **Text-to-Speech (TTS)** by generating human-like speech from **plain text** using AI-powered models.
 
 ---
 
