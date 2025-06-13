@@ -1,8 +1,7 @@
 
 
 ### **Introduction to Reinforcement Learning (Q-Learning)**  
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 11**, I implemented a basic **Q-Learning agent** to solve the **FrozenLake** environment from **OpenAI Gym**. Q-Learning is a fundamental reinforcement learning (RL) algorithm that helps agents learn optimal action policies by interacting with their environment.
+I implemented a basic **Q-Learning agent** to solve the **FrozenLake** environment from **OpenAI Gym**. Q-Learning is a fundamental reinforcement learning (RL) algorithm that helps agents learn optimal action policies by interacting with their environment.
 
 ---
 
