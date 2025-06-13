@@ -1,8 +1,7 @@
 
 #  AI for Logic Learning (Solving XOR with a Neural Network)
 
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 5**, I built a simple neural network from scratch using **NumPy** to solve the classic **XOR logic gate problem**, which cannot be solved using linear models.
+ I built a simple neural network from scratch using **NumPy** to solve the classic **XOR logic gate problem**, which cannot be solved using linear models.
 
 ---
 
