@@ -1,8 +1,7 @@
 
 
 ### ** Real-Time Face Detection with OpenCV**  
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 7**, I built a real-time face detection system using **OpenCV** and **Haar Cascade Classifier** to detect faces from a webcam feed.
+I built a real-time face detection system using **OpenCV** and **Haar Cascade Classifier** to detect faces from a webcam feed.
 
 ---
 
