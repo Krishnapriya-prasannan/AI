@@ -1,7 +1,6 @@
 
 ### ** DCGAN for AI-Powered Image Generation (GANs)**  
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 9**, I implemented a **Deep Convolutional Generative Adversarial Network (DCGAN)** to generate new images from the **Fashion MNIST** dataset.
+ I implemented a **Deep Convolutional Generative Adversarial Network (DCGAN)** to generate new images from the **Fashion MNIST** dataset.
 
 ---
 
