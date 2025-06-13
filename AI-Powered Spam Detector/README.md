@@ -1,7 +1,7 @@
 
 #  AI-Powered Spam Detector
 
-This project is part of my **#100DaysOfAI** challenge. On **Day 3**, I built a simple AI model that classifies SMS messages as **Spam** or **Not Spam** using Natural Language Processing and Machine Learning techniques.
+ I built a simple AI model that classifies SMS messages as **Spam** or **Not Spam** using Natural Language Processing and Machine Learning techniques.
 
 ---
 
