@@ -1,8 +1,7 @@
 
 
 ### **Movie Recommendation System (Hybrid Model)**  
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 13**, I built a **hybrid movie recommendation system** combining both **Collaborative Filtering** and **Content-Based Filtering**. This system recommends movies based on user preferences and movie metadata like tags.
+I built a **hybrid movie recommendation system** combining both **Collaborative Filtering** and **Content-Based Filtering**. This system recommends movies based on user preferences and movie metadata like tags.
 
 ---
 
