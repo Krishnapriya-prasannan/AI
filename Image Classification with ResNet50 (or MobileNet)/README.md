@@ -1,4 +1,4 @@
-#  Day 2 - Image Classification with ResNet50 (or MobileNet)
+#   Image Classification with ResNet50 (or MobileNet)
 
 This project is part of my **#100DaysOfAI** challenge. On **Day 2**, I built an image classifier using deep learning models (ResNet50 or MobileNet) from TensorFlow Keras. The model takes an image as input and predicts its class based on the ImageNet dataset.
 
