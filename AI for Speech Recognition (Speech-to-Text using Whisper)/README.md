@@ -1,7 +1,6 @@
 
 ##  AI for Speech Recognition (Speech-to-Text using Whisper)
-
-This is part of my **#100DaysOfAI** challenge. On Day 4, I learnt to use [OpenAI Whisper](https://github.com/openai/whisper) — a general-purpose speech recognition model — to convert spoken audio into written text.
+ I learnt to use [OpenAI Whisper](https://github.com/openai/whisper) — a general-purpose speech recognition model — to convert spoken audio into written text.
 
 
 ---
