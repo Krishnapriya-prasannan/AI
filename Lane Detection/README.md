@@ -1,7 +1,6 @@
 
 ### **Lane Detection**  
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 10**, I implemented a basic **lane detection system** using **Computer Vision techniques** to identify road lane markings from a driving video — a key part of autonomous vehicle perception.
+I implemented a basic **lane detection system** using **Computer Vision techniques** to identify road lane markings from a driving video — a key part of autonomous vehicle perception.
 
 ---
 
