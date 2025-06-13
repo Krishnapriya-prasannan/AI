@@ -1,7 +1,6 @@
 #  Deep Learning for Handwritten Digit Recognition (MNIST)
 
-This is part of my **#100DaysOfAI** challenge.  
-On **Day 6**, I built a **Convolutional Neural Network (CNN)** using TensorFlow/Keras to classify handwritten digits from the popular **MNIST** dataset.
+ I built a **Convolutional Neural Network (CNN)** using TensorFlow/Keras to classify handwritten digits from the popular **MNIST** dataset.
 
 ---
 
