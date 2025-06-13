@@ -1,7 +1,7 @@
 
 ### **AI-Generated Art using Stable Diffusion**
 
-As part of my **#100DaysOfAI** challenge, on **Day 18**, I explored the creative side of AI by generating stunning, high-quality images from **text prompts** using **Stable Diffusion**.
+ I explored the creative side of AI by generating stunning, high-quality images from **text prompts** using **Stable Diffusion**.
 
 ---
 
